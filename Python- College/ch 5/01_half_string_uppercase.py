@@ -3,4 +3,4 @@ def uppercase_half(s):
     return s[:half].lower() + s[half:].upper()
 
 s = input("Enter a string: ")
-print("Modified string:", uppercase_half(s))
+print("Changed string:", uppercase_half(s))
