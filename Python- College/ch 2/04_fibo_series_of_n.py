@@ -1,6 +1,5 @@
 n=int(input(("Enter the number to get fibonacci seires till the number:")))
-y=1
-z=1
+y,z=1,1
 while 1:
     if n<=0:
         n=int(input(("Enter a Valid number to get fibonacci seires till the number:")))
