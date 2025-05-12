@@ -1,2 +1,2 @@
-dict = {"a": 10, "b": 20, "c": 30}
+dict = {"a": 17, "b": 29, "c": 34}
 print("Sum of values:", sum(dict.values()))
